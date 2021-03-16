@@ -1,0 +1,29 @@
+{
+    "status": true,
+    "code": 200,
+    "msg": "Successfully",
+    "response": [
+        {
+            "short_name": "USD",
+            "name": "US Dollar",
+            "country": "United States",
+            "code_n": "998",
+            "subunit": "quarter",
+            "website": "usmint.gov",
+            "symbol": "$",
+            "bank": "Federal Reserve System",
+            "banknotes": "$1, $5, $10, $20, $50, $100",
+            "coins": "1¢, 5¢, 10¢, 25¢",
+            "icon": "https://fcsapi.com/assets/images/flags/usd.svg",
+            "type": "forex",
+            "symbol_2": "$",
+            "banknotes_2": "$1, $5, $10, $20, $50, $100",
+            "coins_2": "1&cent;, 5&cent;, 10&cent;, 25&cent;"
+        }
+    ],
+    "info": {
+        "server_time": "2021-03-16 08:29:55 UTC",
+        "credit_count": 1,
+        "_t": "2021-03-16 08:29:55 UTC"
+    }
+}

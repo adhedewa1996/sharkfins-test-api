@@ -1,0 +1,221 @@
+{
+    "status": true,
+    "code": 200,
+    "msg": "Successfully",
+    "response": [
+        {
+            "id": "1",
+            "name": "Euro US Dollar",
+            "short_name": "EUR/USD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "5",
+            "name": "Euro New Zealand Dollar",
+            "short_name": "EUR/NZD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "6",
+            "name": "Euro Canadian Dollar",
+            "short_name": "EUR/CAD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "8",
+            "name": "Euro Singapore Dollar",
+            "short_name": "EUR/SGD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "12",
+            "name": "Euro Australian Dollar",
+            "short_name": "EUR/AUD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "241",
+            "name": "Australian Dollar Euro",
+            "short_name": "AUD/EUR",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "373",
+            "name": "Canadian Dollar Euro",
+            "short_name": "CAD/EUR",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "627",
+            "name": "Euro Barbadian Dollar",
+            "short_name": "EUR/BBD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "632",
+            "name": "Euro Brunei Dollar",
+            "short_name": "EUR/BND",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "635",
+            "name": "Euro Bahamas Dollar",
+            "short_name": "EUR/BSD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "638",
+            "name": "Euro Belize Dollar",
+            "short_name": "EUR/BZD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "651",
+            "name": "Euro Fiji Dollar",
+            "short_name": "EUR/FJD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "657",
+            "name": "Euro Hong Kong Dollar",
+            "short_name": "EUR/HKD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "668",
+            "name": "Euro Jamaican Dollar",
+            "short_name": "EUR/JMD",
+            "type": "forex",
+            "decimal": "3"
+        },
+        {
+            "id": "674",
+            "name": "Euro Cayman Islands Dollar",
+            "short_name": "EUR/KYD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "694",
+            "name": "Euro Namibian Dollar",
+            "short_name": "EUR/NAD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "723",
+            "name": "Euro Trinidad Dollar",
+            "short_name": "EUR/TTD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "724",
+            "name": "Euro Taiwan Dollar",
+            "short_name": "EUR/TWD",
+            "type": "forex",
+            "decimal": "3"
+        },
+        {
+            "id": "733",
+            "name": "Euro East Caribbean Dollar",
+            "short_name": "EUR/XCD",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "839",
+            "name": "Hong Kong Dollar Euro",
+            "short_name": "HKD/EUR",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "1249",
+            "name": "New Zealand Dollar Euro",
+            "short_name": "NZD/EUR",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "1590",
+            "name": "Singapore Dollar Euro",
+            "short_name": "SGD/EUR",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "1740",
+            "name": "Taiwan Dollar Euro",
+            "short_name": "TWD/EUR",
+            "type": "forex",
+            "decimal": "5"
+        },
+        {
+            "id": "1815",
+            "name": "US Dollar Euro",
+            "short_name": "USD/EUR",
+            "type": "forex",
+            "decimal": "4"
+        },
+        {
+            "id": "3756",
+            "name": "EuropeCoin US Dollar",
+            "short_name": "ERC/USD",
+            "type": "crypto",
+            "decimal": "5"
+        },
+        {
+            "id": "3856",
+            "name": "Eurocoin US Dollar",
+            "short_name": "EUC/USD",
+            "type": "crypto",
+            "decimal": "6"
+        },
+        {
+            "id": "5276",
+            "name": "Neuro US Dollar",
+            "short_name": "NRO/USD",
+            "type": "crypto",
+            "decimal": "6"
+        },
+        {
+            "id": "5285",
+            "name": "Neurotoken US Dollar",
+            "short_name": "NTK/USD",
+            "type": "crypto",
+            "decimal": "5"
+        },
+        {
+            "id": "8145",
+            "name": "EurocoinToken US Dollar",
+            "short_name": "ECTE/USD",
+            "type": "crypto",
+            "decimal": "6"
+        },
+        {
+            "id": "2",
+            "name": "Euro Swiss Franc",
+            "short_name": "EUR/CHF",
+            "type": "forex",
+            "decimal": "4"
+        }
+    ],
+    "info": {
+        "server_time": "2021-03-16 08:59:31 UTC",
+        "credit_count": 1
+    }
+}

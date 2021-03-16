@@ -1,0 +1,67 @@
+{
+    "status": true,
+    "code": 200,
+    "msg": "Successfully",
+    "response": {
+        "pivot_point": {
+            "classic": {
+                "pp": "1.1078",
+                "R1": "1.1097",
+                "R2": "1.1129",
+                "R3": "1.1148",
+                "S1": "1.1045",
+                "S2": "1.1026",
+                "S3": "1.0994"
+            },
+            "fibonacci": {
+                "pp": "1.1078",
+                "R1": "1.1098",
+                "R2": "1.111",
+                "R3": "1.1129",
+                "S1": "1.1058",
+                "S2": "1.1046",
+                "S3": "1.1026"
+            },
+            "camarilla": {
+                "pp": "1.1078",
+                "R1": "1.1069",
+                "R2": "1.1073",
+                "R3": "1.1078",
+                "R4": "1.1092",
+                "S1": "1.1059",
+                "S2": "1.1055",
+                "S3": "1.105",
+                "S4": "1.1036"
+            },
+            "woodie": {
+                "pp": "1.1074",
+                "R1": "1.109",
+                "R2": "1.1126",
+                "S1": "1.1038",
+                "S2": "1.1023"
+            },
+            "demark": {
+                "high": "1.1087",
+                "low": "1.1036",
+                "R1": "1.1087",
+                "S1": "1.1036"
+            }
+        },
+        "overall": {
+            "summary": "Neutral",
+            "change_at": "2021-03-16 08:53:36",
+            "msg": "summary based on all SMA,EMA,Pivot Points and indicators"
+        }
+    },
+    "info": {
+        "id": "2",
+        "decimal": "4",
+        "symbol": "EUR/CHF",
+        "period": "1d",
+        "disclaimer": "Note: These Prices, Market trends and signals are not develop for trading purpose. Therefore we doesn`t bear any responsibility for any trading losses you might incur as a result of using this data.",
+        "update": "just now",
+        "update_time": "2021-03-16 08:53:36 UTC",
+        "server_time": "2021-03-16 08:53:36 UTC",
+        "credit_count": 1
+    }
+}
